@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "liri",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanthakali/liri-bot.git"
+  },
+  "author": "Aman Thakali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanthakali/liri-bot/issues"
+  },
+  "homepage": "https://github.com/amanthakali/liri-bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^7.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
