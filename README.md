@@ -15,7 +15,7 @@
         3. A preview link of the song from Spotify
         4. The album that the song is from
 
-
+<img width="943" alt="song" src="https://user-images.githubusercontent.com/43390686/55045013-c702e580-5012-11e9-9ca3-0bc202d73598.png">
         
 
 ### node liri.js movie-this <movie name>
@@ -39,6 +39,7 @@
 
 ### node liri.js do-what-it-says
         Takes the text from random.txt and runs the song through spotify-this-song command
+<img width="933" alt="do_what_it_says" src="https://user-images.githubusercontent.com/43390686/55045154-44c6f100-5013-11e9-8596-8cd771b57800.png">
 
 
 
