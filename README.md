@@ -15,7 +15,6 @@
         3. A preview link of the song from Spotify
         4. The album that the song is from
 
-<img width="964" alt="concert" src="https://user-images.githubusercontent.com/43390686/55038435-379c0900-4ff7-11e9-8f77-6456a7cb66d5.png">
 
         
 
@@ -35,7 +34,8 @@
 <img width="1035" alt="movie" src="https://user-images.githubusercontent.com/43390686/55039163-821e8500-4ff9-11e9-967f-722706eb234f.png">
 
 ### node liri.js concert <artist/band name>
- <img width="1035" alt="movie" src="https://user-images.githubusercontent.com/43390686/55039135-6fa44b80-4ff9-11e9-8878-aba8ffd90381.png"> 
+ <img width="964" alt="concert" src="https://user-images.githubusercontent.com/43390686/55038435-379c0900-4ff7-11e9-8f77-6456a7cb66d5.png">
+
 
 ### node liri.js do-what-it-says
         Takes the text from random.txt and runs the song through spotify-this-song command
